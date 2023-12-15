@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Forestry, Beijing Forestry University, 2014
 * M.S. in Forest Conservation, Beijing Forestry University, 2017
-* Ph.D in Forest Sciences, Laval University, 2023
+* Ph.D. in Forest Sciences, Laval University, 2023
 
   
 Skills
