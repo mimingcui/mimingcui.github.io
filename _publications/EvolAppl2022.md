@@ -5,6 +5,5 @@ permalink: /publication/EvolAppl2022
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-03-21
 venue: 'Evolutionary Application'
-paperurl: 'http://academicpages.github.io/files/EvolAppl2022.pdf'
+paperurl: 'http://mimingcui.github.io/files/EvolAppl2022.pdf'
 ---
-[Download paper here](http://mimingcui.github.io/files/EvolAppl2022.pdf)
