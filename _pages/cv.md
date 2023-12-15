@@ -27,9 +27,6 @@ Skills
 
 Publications
 ======
-#  <ul>{% for post in site.publications %}
- #   {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
 * Wang, L., Li, C., Luo, Y., Wang, G., Dou, Z., Haq, I. U., ... & Cui, M. (2023). Current and future control of the wood‐boring pest Anoplophora glabripennis. Insect Science.
 * Qin, H., Xu, H., Capron, A., Porth, I., Cui, M., Keena, M. A., ... & Hamelin, R. C. (2023). Is there hybridization between 2 species of the same genus in sympatry?—The genetic relationships between Anoplophora glabripennis, Anoplophora chinensis, and putative hybrids. Insect Science.
 * Cui M., Wu Y., Javal M., Giguère I., Roux G., Andres J. A., Keena M., Shi J., Wang B., Braswell E., Pfister S. E., Hamelin R., Roe A., & Porth I. (2022): Genome‐scale phylogeography resolves the native population structure of the Asian longhorned beetle, Anoplophora glabripennis (Motschulsky). Evolutionary Applications.
