@@ -18,10 +18,10 @@ Education
   
 Skills
 ======
-* Proficient in using the Linux operating system for data processing, such as genome alignment of high-throughput sequencing data and statistical calculations of genetic loci. 
-* Skilled in using R for genetic data analysis and visualization. 
-* I use Python when R is not sufficient. 
-* Proficient in scientific paper writing. 
+* Experienced in processing High-throughput Sequencing (HTS) data, including GBS, WGS, and RNA-seq.
+* Proficient in programming languages such as BASH and R, and familiar with Python.
+* Skilled in the utilization of computer servers for computational tasks.
+* Proficient in scientific paper writing, with a strong ability to communicate complex concepts effectively.
 * Fluent in English and speak basic French.
 
 
