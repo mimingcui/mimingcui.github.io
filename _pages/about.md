@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal page!
+Welcome to my personal space!
 
-I am a geneticist/entomologist, specialized in bioinformatics, population genomics, and data visualization. I am interested in studying evolution. 
+I am currently a post-doc with Ilga Porth and Damase Khasa at Laval University in Quebec, Canada.
 
-I am currently a post-doc at Laval University in Quebec, Canada. I completed my PhD at Laval University with Ilga Porth.
+I have developed a strong interest in using genomic tools to explain questions about evolution. I have a background in population genetics, landscape genomics, bioinformatics, molecular ecology, entomology, and invasion biology. I hope to contribute to explaining the complex series of problems regarding how life evolves.
