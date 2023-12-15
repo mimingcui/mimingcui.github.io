@@ -33,13 +33,10 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-* 2021 | Pool-seq approach to identify SNPs associated with climate in Anoplophora glabripennis. Entomology 2021, Oral, Online
-* 2020 | The power of next-generation sequencing to resolve the population structure of an invasive insect pest, Anoplophora glabripennis. Entomology 2020, Oral, Online
-* 2019 | Inference on population genetics of the invasive insect Asian Longhorned beetle through NGS technology. Canadian Forest Genetics Association Conference, Canada, Oral, in person
-* 2019 | Population genomics of the invasive insect, Asian longhorned beetle (ALB). Journée étudiante de l’IBIS, Canada, Poster
+* Pool-seq approach to identify SNPs associated with climate in Anoplophora glabripennis. Entomology 2021, Oral, Online
+* The power of next-generation sequencing to resolve the population structure of an invasive insect pest, Anoplophora glabripennis. Entomology 2020, Oral, Online
+* Inference on population genetics of the invasive insect Asian Longhorned beetle through NGS technology. Canadian Forest Genetics Association Conference 2019, Canada, Oral, in person
+* Population genomics of the invasive insect, Asian longhorned beetle (ALB). Journée étudiante de l’IBIS 2019, Canada, Poster
 
   
 
