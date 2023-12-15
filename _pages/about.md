@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mingming Cui, PhD"
+title: "Welcome to my space!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal space!
 
 I am currently a post-doc at Laval University, working with [Ilga Porth] (https://www.ibis.ulaval.ca/en/research/ilga-porth/)(PhD supervisor) and [Damase Khasa](https://www.ffgg.ulaval.ca/departements/sbf/professeurs/damase-p-khasa) on the GENOSCAN project, which aims to investigate the impacts of mining sites on local ecosystems in Northern Canada, focusing on the genetic indices of black spruce and microbiomes.
 
