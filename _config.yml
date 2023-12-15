@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mingming Cui / Homepage"
+title                    : "M. Cui / Homepage"
 title_separator          : "-"
 name                     : &name "Mingming Cui"
 description              : &description "personal description"
