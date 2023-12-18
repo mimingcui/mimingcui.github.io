@@ -34,7 +34,9 @@ import pandas as pd
 
 # In[3]:
 
-publications = pd.read_csv("publications.tsv", sep="\t", header=0)
+#publications = pd.read_csv("publications.tsv", sep="\t", header=0)
+publications = pd.read_csv("publications.tsv", sep="\t", header=0, encoding='ISO-8859-1')
+
 publications
 
 
@@ -64,10 +66,17 @@ def html_escape(text):
 import os
 for row, item in publications.iterrows():
     
-    md_filename = str(item.pub_date) + "-" + item.url_slug + ".md"
-    html_filename = str(item.pub_date) + "-" + item.url_slug
+    #md_filename = str(item.pub_date) + "-" + item.url_slug + ".md"
+    #md_filename = str(item.pub_date) + "-" + str(item.url_slug) + ".md"
+    md_filename = str(item.pub_date if item.pub_date is not None else "default_date") + "-" + str(item.url_slug if item.url_slug is not None else "default_slug") + ".md"
+
+
+    #html_filename = str(item.pub_date) + "-" + item.url_slug
+    html_filename = str(item.pub_date if item.pub_date is not None else "default_date") + "-" + str(item.url_slug if item.url_slug is not None else "default_slug")
+
+
     year = item.pub_date[:4]
-    
+
     ## YAML variables
     
     md = "---\ntitle: \""   + item.title + '"\n'
