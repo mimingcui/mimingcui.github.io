@@ -34,7 +34,6 @@ import pandas as pd
 
 # In[3]:
 
-all_publications_md = ""
 
 
 #publications = pd.read_csv("publications.tsv", sep="\t", header=0)
@@ -105,22 +104,15 @@ for row, item in publications.iterrows():
     ## Markdown description for individual page
     
     if len(str(item.paper_url)) > 5:
-        md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 
+        md += "\n\n<a href='" + item.paper_url + "'>PDF</a>\n" 
         
     if len(str(item.excerpt)) > 5:
         md += "\n" + html_escape(item.excerpt) + "\n"
         
-    md += "\nRecommended citation: " + item.citation
+    #md += "\nRecommended citation: " + item.citation #mute citation
     
     md_filename = os.path.basename(md_filename)
-
-    # Inside the loop
-    all_publications_md += md + "\n\n"  # Add the current publication markdown to the aggregate string
-
-       
-    #with open("../_publications/" + md_filename, 'w') as f:
-    #    f.write(md)
-
-    with open("../_publications/all_publications.md", 'w') as f:
-        f.write(all_publications_md)
+ 
+    with open("../_publications/" + md_filename, 'w') as f:
+        f.write(md)
 
