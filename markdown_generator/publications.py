@@ -34,6 +34,9 @@ import pandas as pd
 
 # In[3]:
 
+all_publications_md = ""
+
+
 #publications = pd.read_csv("publications.tsv", sep="\t", header=0)
 publications = pd.read_csv("publications.tsv", sep="\t", header=0, encoding='ISO-8859-1')
 
@@ -110,8 +113,14 @@ for row, item in publications.iterrows():
     md += "\nRecommended citation: " + item.citation
     
     md_filename = os.path.basename(md_filename)
-       
-    with open("../_publications/" + md_filename, 'w') as f:
-        f.write(md)
 
+    # Inside the loop
+    all_publications_md += md + "\n\n"  # Add the current publication markdown to the aggregate string
+
+       
+    #with open("../_publications/" + md_filename, 'w') as f:
+    #    f.write(md)
+
+    with open("../_publications/all_publications.md", 'w') as f:
+        f.write(all_publications_md)
 
