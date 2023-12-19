@@ -8,4 +8,4 @@ venue: 'Journal of Pest Science '
 
 <a href='http://mimingcui.github.io/files/JPestScience2018_II_Bilodeau.pdf'>PDF</a>
 
-This review discusses the benefits and challenges of put in use of genomics tools for biosurveillance.
+This review discusses the benefits and challenges associated with the application of genomic tools in biosurveillance.

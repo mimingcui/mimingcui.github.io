@@ -1,5 +1,5 @@
 ---
-title: "Current and future control of the woodboring pest Anoplophora glabripennis"
+title: "Current and future control of the wood-boring pest Anoplophora glabripennis"
 collection: publications
 permalink: /publication/2023-01-01-paper-title-number-3
 date: 2023-01-01

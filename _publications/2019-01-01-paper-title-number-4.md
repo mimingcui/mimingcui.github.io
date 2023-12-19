@@ -8,4 +8,4 @@ venue: 'Journal of Pest Science '
 
 <a href='http://mimingcui.github.io/files/JPestScience2018_I_Roe.pdf'>PDF</a>
 
-This review talks about how can genomic tools be contributed to biosurveillance of forest insects.
+This review talks about the contribution of genomic tools to the biosurveillance of forest insects.
