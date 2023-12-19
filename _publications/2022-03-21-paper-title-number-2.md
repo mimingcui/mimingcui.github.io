@@ -2,7 +2,6 @@
 title: "Genome-scale phylogeography resolves the native population structure of the Asian longhorned beetle, Anoplophora glabripennis (Motschulsky)"
 collection: publications
 permalink: /publication/2022-03-21-paper-title-number-2
-excerpt: 'This paper is about the genetic diversity and population structure of ALB populations in its native range.'
 date: 2022-03-21
 venue: 'Evolutionary Application'
 ---
