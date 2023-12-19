@@ -1,5 +1,5 @@
 ---
-title: "Biosurveillance of forest insects: part IÑintegration and application of genomic tools to the surveillance of non_native forest insects"
+title: "Biosurveillance of forest insects: part I - integration and application of genomic tools to the surveillance of non_native forest insects"
 collection: publications
 permalink: /publication/2019-01-01-paper-title-number-4
 date: 2019-01-01

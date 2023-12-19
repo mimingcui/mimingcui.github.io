@@ -1,5 +1,5 @@
 ---
-title: "Is there hybridization between 2 species of the same genus in sympatry?ÑThe genetic relationships between Anoplophora glabripennis, Anoplophora chinensis, and putative hybrids"
+title: "Is there hybridization between 2 species of the same genus in sympatry? - The genetic relationships between Anoplophora glabripennis, Anoplophora chinensis, and putative hybrids"
 collection: publications
 permalink: /publication/2023-01-01-paper-title-number-6
 date: 2023-01-01

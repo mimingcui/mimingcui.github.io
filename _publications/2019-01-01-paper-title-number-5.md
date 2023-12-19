@@ -1,5 +1,5 @@
 ---
-title: "Biosurveillance of forest insects: part IIÑadoption of genomic tools by end user communities and barriers to integration"
+title: "Biosurveillance of forest insects: part II - adoption of genomic tools by end user communities and barriers to integration"
 collection: publications
 permalink: /publication/2019-01-01-paper-title-number-5
 date: 2019-01-01
