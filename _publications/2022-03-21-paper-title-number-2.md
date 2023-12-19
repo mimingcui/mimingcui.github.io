@@ -9,8 +9,6 @@ paperurl: 'http://mimingcui.github.io/files/EvolAppl2022.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
-<a href='http://mimingcui.github.io/files/EvolAppl2022.pdf'>Download paper here</a>
+<a href='http://mimingcui.github.io/files/EvolAppl2022.pdf'>PDF</a>
 
 This paper is about the genetic diversity and population structure of ALB populations in its native range.
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
