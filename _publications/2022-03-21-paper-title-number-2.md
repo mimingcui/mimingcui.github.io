@@ -5,7 +5,6 @@ permalink: /publication/2022-03-21-paper-title-number-2
 excerpt: 'This paper is about the genetic diversity and population structure of ALB populations in its native range.'
 date: 2022-03-21
 venue: 'Evolutionary Application'
-paperurl: 'http://mimingcui.github.io/files/EvolAppl2022.pdf'
 ---
 
 <a href='http://mimingcui.github.io/files/EvolAppl2022.pdf'>PDF</a>
