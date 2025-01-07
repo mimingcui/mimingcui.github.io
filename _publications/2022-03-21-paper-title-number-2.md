@@ -3,7 +3,7 @@ title: "Genome-scale phylogeography resolves the native population structure of 
 collection: publications
 permalink: /publication/2022-03-21-paper-title-number-2
 date: 2022-03-21
-venue: 'Evolutionary Application'
+venue: 'Evolutionary Applications'
 ---
 
 <a href='http://mimingcui.github.io/files/EvolAppl2022.pdf'>PDF</a>
