@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Postdoctoral researcher, Laval University, Quebec, Canada, 2023-
+* Postdoctoral researcher, Laval University, Quebec, Canada, 2023-present
 * Ph.D. in Forest Sciences, Laval University, Quebec, Canada, 2023
 * M.S. in Forest Conservation, Beijing Forestry University, Beijing, China, 2017
 * B.S. in Forestry, Beijing Forestry University, Beijing, China, 2014
