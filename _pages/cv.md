@@ -43,7 +43,7 @@ Publications
   
 Talks
 ======
-* Impact of Mining Activities on the Genomic Diversity of Black Spruce (Picea mariana) in Arctic and Sub-Arctic Ecosystems. XX International Botanical Congress IBC 2024, Madrid, Spain. Poster
+* Impact of Mining Activities on the Genomic Diversity of Black Spruce (*Picea mariana*) in Arctic and Sub-Arctic Ecosystems. XX International Botanical Congress IBC 2024, Madrid, Spain. Poster
 * Pool-seq approach to identify SNPs associated with climate in *Anoplophora glabripennis*. Entomology 2021 (online). Oral
 * The power of next-generation sequencing to resolve the population structure of an invasive insect pest, *Anoplophora glabripennis*. Entomology 2020 (online). Oral
 * Inference on population genetics of the invasive insect Asian Longhorned beetle through NGS technology. Canadian Forest Genetics Association Conference 2019, Quebec, Canada. Oral
