@@ -27,7 +27,7 @@ Skills
 
 Publications
 ======
-* __Cui M.__, Roe, A. D., Boyle, B., Keena, M., Wu, Y., ... & Porth, I. (2024). Tracking the North American Asian Longhorned Beetle Invasion With Genomics. *Evolutionary Applications*, 17(11). https://doi.org/10.1111/eva.70036
+* __Cui M.__, Roe, A. D., Boyle, B., Keena, M., Wu, Y., ... & Porth, I. (2024). Tracking the North American Asian Longhorned Beetle Invasion With Genomics. *Evolutionary Applications*.
 * Wang L., Li C., Luo Y., Wang G., Dou Z., Haq I. U., ... & __Cui M.__ (2023). Current and future control of the wood‐boring pest *Anoplophora glabripennis*. *Insect Science*.
 * Qin H., Xu H., Capron A., Porth I., __Cui M.__, Keena M. A., ... & Hamelin R. C. (2023). Is there hybridization between 2 species of the same genus in sympatry? — The genetic relationships between *Anoplophora glabripennis*, *Anoplophora chinensis*, and putative hybrids. *Insect Science*.
 * __Cui M.__, Wu Y., Javal M., Giguère I., Roux G., Andres J. A., Keena M., Shi J., Wang B., Braswell E., Pfister S. E., Hamelin R., Roe A., & Porth I. (2022): Genome‐scale phylogeography resolves the native population structure of the Asian longhorned beetle, *Anoplophora glabripennis* (Motschulsky). *Evolutionary Applications*.
