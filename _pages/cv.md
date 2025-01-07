@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Forestry, Beijing Forestry University, 2014
-* M.S. in Forest Conservation, Beijing Forestry University, 2017
-* Ph.D. in Forest Sciences, Laval University, 2023
+* Postdoctoral researcher, Laval University, Quebec, Canada, 2023-
+* Ph.D. in Forest Sciences, Laval University, Quebec, Canada, 2023
+* M.S. in Forest Conservation, Beijing Forestry University, Beijing, China, 2017
+* B.S. in Forestry, Beijing Forestry University, Beijing, China, 2014
 
   
 Skills
