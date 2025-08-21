@@ -23,11 +23,12 @@ Skills
 * Proficient in programming languages such as BASH and R, and familiar with Python.
 * Skilled in the utilization of computer servers for computational tasks.
 * Proficient in scientific paper writing, with a strong ability to communicate complex concepts effectively.
-* Fluent in English and speak basic French.
+* Fluent in English and speak intermediate French.
 
 
 Publications
 ======
+* Ding, X., Pelser, P. B., Xu, C., Porth, I., __Cui M.__, El-Kassaby, Y. A., ... & Li, Y. (2025). Leveraging close-range UAV phenotyping and GWAS for enhanced understanding of slash pine growth dynamics. *Information Processing in Agriculture*.
 * __Cui M.__, Roe, A. D., Boyle, B., Keena, M., Wu, Y., ... & Porth, I. (2024). Tracking the North American Asian Longhorned Beetle Invasion With Genomics. *Evolutionary Applications*.
 * Wang L., Li C., Luo Y., Wang G., Dou Z., Haq I. U., ... & __Cui M.__ (2023). Current and future control of the wood‐boring pest *Anoplophora glabripennis*. *Insect Science*.
 * Qin H., Xu H., Capron A., Porth I., __Cui M.__, Keena M. A., ... & Hamelin R. C. (2023). Is there hybridization between 2 species of the same genus in sympatry? — The genetic relationships between *Anoplophora glabripennis*, *Anoplophora chinensis*, and putative hybrids. *Insect Science*.
@@ -41,13 +42,15 @@ Publications
 * Hu P., Tao J., __Cui M.__, Gao C., Lu P., & Luo Y. (2016): Antennal transcriptome analysis and expression profiles of odorant binding proteins in *Eogystia hippophaecolus* (Lepidoptera: Cossidae). *BMC Genomics*.
 
   
-Talks
+Conferences
 ======
-* Impact of Mining Activities on the Genomic Diversity of Black Spruce (*Picea mariana*) in Arctic and Sub-Arctic Ecosystems. XX International Botanical Congress IBC 2024, Madrid, Spain. Poster
-* Pool-seq approach to identify SNPs associated with climate in *Anoplophora glabripennis*. Entomology 2021 (online). Oral
-* The power of next-generation sequencing to resolve the population structure of an invasive insect pest, *Anoplophora glabripennis*. Entomology 2020 (online). Oral
-* Inference on population genetics of the invasive insect Asian Longhorned beetle through NGS technology. Canadian Forest Genetics Association Conference 2019, Quebec, Canada. Oral
-* Population genomics of the invasive insect, Asian longhorned beetle (ALB). Journée étudiante de l’IBIS 2019, Quebec, Canada. Poster
+* Linking Metabolomic Profiles to Larval Performance of the Invasive Asian spongy moth *Lymantria dispar asiatica*: Breeding Potential in Conifer Resistance. Canadian Society of Plant Biologists 2025 Annual General Meeting, Halifax, Canada. 
+* Genomic Insights into Invasion History and Adaptive Evolution in *Anoplophora glabripennis*. Evolution 2025. 
+* Impact of Mining Activities on the Genomic Diversity of Black Spruce (*Picea mariana*) in Arctic and Sub-Arctic Ecosystems. XX International Botanical Congress IBC 2024, Madrid, Spain. 
+* Pool-seq approach to identify SNPs associated with climate in *Anoplophora glabripennis*. Entomology 2021. 
+* The power of next-generation sequencing to resolve the population structure of an invasive insect pest, *Anoplophora glabripennis*. Entomology 2020. 
+* Inference on population genetics of the invasive insect Asian Longhorned beetle through NGS technology. Canadian Forest Genetics Association Conference 2019, Quebec, Canada. 
+* Population genomics of the invasive insect, Asian longhorned beetle (ALB). Journée étudiante de l’IBIS 2019, Quebec, Canada. 
 
   
 
